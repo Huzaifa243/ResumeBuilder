@@ -1,37 +1,28 @@
-# Online Resume Builder
+Resume Builder
+This is a Resume Builder mini-project. It provides a web-based tool that allows users to input personal, educational, and professional information to create a professional-looking resume. The tool includes customizable templates, form inputs for various resume sections, and file upload options.
 
-> **Abstract** : The Online Resume Builder project aims to develop a user-friendly, web-based platform that simplifies the creation of professional resumes. This tool is designed to cater to a wide range of users, from recent graduates to seasoned professionals, offering customizable templates and step-by-step guidance to ensure that each resume is tailored to the user’s specific needs and industry standards. The platform features real-time previews, keyword optimization for applicant tracking systems (ATS), and automated formatting to produce polished, recruiter-ready resumes. Additionally, the project incorporates integration with job search engines, enabling users to seamlessly apply to job postings directly from the platform. By automating and enhancing the resume creation process, this project seeks to empower users to present their qualifications effectively and improve their job search outcomes.
+Project Structure
+index.html: The main HTML file that provides the interface for the resume builder.
+css/: Contains style sheets for the different resume templates and forms.
+js/: Includes the JavaScript files used for functionality, such as handling form data and image uploads.
+images/: Folder for storing images, including the project logo.
+README.md: This file provides information and instructions for the project.
+Requirements
+HTML5 & CSS3 for structure and styling.
+Bootstrap 5 for responsive design and UI components.
+Font Awesome for icons.
+jQuery 3.6.0 for handling JavaScript operations and DOM manipulation.
+html2canvas for converting the resume to an image.
+canvas2image for exporting the generated image.
+Ensure you have an internet connection for loading external libraries or download them for offline use.
 
-### Project Members
-1. KHAN HUZAIFA MOHAMMED RIZWAN  [ Team Leader ] 
-2. KADIWAL MUHAMMAD HUSSAIN RAEES 
-3. SAWANT CHINMAY PRAVIN 
-4. QURESHI MOHAMMAD MOIN TAYYAB 
-
-### Project Guides
-1. PROF. NIKHAT FATMA SHAIKH  [ Primary Guide ] 
-
-### Deployment Steps
-Please follow the below steps to run this project.
-1. Step 1 here
-2. Step 2 here
-3. Step 3 here
-3. and so on...
-
-### Subject Details
-- Class : SE (COMP) Div B - 2024-2025
-- Subject : Mini Project – 1 A  (MP-1(2019)(P))
-- Project Type : Mini Project
-
-### Platform, Libraries and Frameworks used
-1. [NodeJS](https://nodejs.org)
-2. [ExpressJS](https://expressjs.org)
-3. [TensorFlow](https://tensorflowjs.com)
-
-### Dataset Used
-1. [Kaggle Dataset 1](https://kaggle.com/dataset1)
-2. [Kaggle Dataset 2](https://kaggle.com/dataset2)
-
-### References
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
+How to Run the Project
+Clone or download the project files.
+Open index.html in a web browser to start using the Resume Builder.
+Fill in each section with your personal details, education, work experience, etc.
+Select your desired template and export your resume.
+Author:
+Khan Huzaifa 
+Kadiwal Hussain
+Qureshi Moin
+Sawant Chinmay
